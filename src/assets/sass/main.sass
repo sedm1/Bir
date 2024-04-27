@@ -1,0 +1,68 @@
+@import 'vars'
+@import 'icons'
+*
+    padding: 0 
+    margin: 0
+    box-sizing: border-box
+    font-family: "Inter", sans-serif
+    color: $black
+
+.container
+    max-width: calc( $container + 20px )
+    width: 100%
+    padding: 0px 10px
+    margin: 0 auto
+img
+    width: 100%
+    height: auto
+a
+    text-decoration: none
+    color: inherit
+    cursor: pointer
+    display: block
+span
+    font-size: inherit
+    font-weight: inherit
+button
+    border: 0 none
+    outline: 0 none
+    background: 0 none
+    cursor: pointer
+    font-family: inherit
+.button-ui-1
+    border: 1px solid $orange
+    border-radius: 12px
+    box-shadow: 0px 1px 5px 0px rgba(10, 10, 10, 0.2)
+    transition: .3s
+    color: $orange
+    font-size: 16px
+    font-weight: 600
+    &:hover
+        color: $white
+        background: $orange
+.button-ui-2
+    color: $white
+    background: $orange
+    font-size: 16px
+    font-weight: 600
+    border-radius: 12px
+    box-shadow: 0px 1px 5px 0px rgba(10, 10, 10, 0.2)
+    transition: .3s
+    border: 1px solid $orange
+    &:hover
+        color: $orange
+        background: $white
+
+li
+    list-style: none
+input, textarea
+    border: 0 none
+    outline: 0 none
+input[type='text']
+    &:focus
+        border: 1px solid $orange
+section
+    margin-bottom: 120px
+.section__title
+    font-size: 32px
+    font-weight: 700

@@ -1,0 +1,15 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip382_18911">
+			<rect id="VK_Monochrome_Compact_Logo 1" width="17.920000" height="17.920000" transform="translate(7.039062 7.040039)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 127" cx="16.000000" cy="16.000000" r="15.500000" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="VK_Monochrome_Compact_Logo 1" width="17.920000" height="17.920000" transform="translate(7.039062 7.040039)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip382_18911)">
+		<path id="Vector" d="M7.38 10.88C7.52 17.27 10.92 21.12 16.87 21.12L17.21 21.12L17.21 17.46C19.4 17.66 21.05 19.17 21.72 21.12L24.81 21.12C23.96 18.2 21.73 16.6 20.33 15.98C21.73 15.22 23.68 13.38 24.15 10.88L21.34 10.88C20.74 12.91 18.93 14.75 17.21 14.92L17.21 10.88L14.4 10.88L14.4 17.97C12.66 17.56 10.46 15.57 10.37 10.88L7.38 10.88Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
